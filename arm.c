@@ -12,11 +12,11 @@ rem=n%10;
 }
 if(t==result)
 {
-printf("%d is an armstrong number");
+printf("%d is an armstrong number",n);
 }
 else
 {
-printf("%d is not an armstrong number"):
+printf("%d is not an armstrong number",n):
 }
 return 0;
 }

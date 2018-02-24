@@ -5,10 +5,9 @@ void main()
     printf("enter the value ");
     scanf("%d%d",&a,&b);
     c=a*b;
-    printf("\nthe product is %d",c);
     if(c/a==a)
     {
-        printf("\nperfect square");
+        printf("\n perfect square");
     }
     else
     {
